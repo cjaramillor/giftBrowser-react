@@ -4,7 +4,7 @@ import { GifBrowserApp } from './GifBrowserApp'
 import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+ /*  <React.StrictMode> */
     <GifBrowserApp />
-  </React.StrictMode>,
+  /* </React.StrictMode>, */
 )
